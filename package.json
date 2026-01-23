@@ -1,0 +1,19 @@
+{
+  "name": "remove-douyu-danmaku-sfx",
+  "version": "1.0.0",
+  "description": "屏蔽斗鱼高级弹幕特效",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idxinf/Remove-Douyu-Danmaku-SFX.git"
+  },
+  "author": "idxinf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/idxinf/Remove-Douyu-Danmaku-SFX/issues"
+  },
+  "homepage": "https://github.com/idxinf/Remove-Douyu-Danmaku-SFX#readme"
+}
