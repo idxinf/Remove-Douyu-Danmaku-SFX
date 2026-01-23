@@ -1,0 +1,22 @@
+html body [class^=user-icon-],
+html body [class^=super-tail-],
+html body [class^=super-noble-icon-],
+html body [class^=super-user-icon-],
+html body [class^=vip-icon-],
+html body [class^=right-dynamic-pic-],
+html body [class^=rightDynamicPicImg-],
+html body [class^=headpic-],
+html body [class^=vipIcon-],
+html body [class^=text-] > img,
+html body [class^=super-text-] > img {
+    display: none !important;
+}
+
+html body [class^=text-],
+html body [class^=super-text-] {
+    background-image: none !important;
+}
+
+.barrage-gradient {
+    border: none;
+}
