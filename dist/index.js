@@ -17,8 +17,8 @@
 // @match			*://*.douyu.com/9*
 // @icon            https://www.douyu.com/favicon.ico
 // @grant           GM_addStyle
-// @downloadURL     
-// @updateURL       
+// @downloadURL     https://update.greasyfork.org/scripts/563697/Remove%20Douyu%20Danmaku%20SFX%20-%20%E5%B1%8F%E8%94%BD%E6%96%97%E9%B1%BC%E9%AB%98%E7%BA%A7%E5%BC%B9%E5%B9%95%E7%89%B9%E6%95%88.user.js
+// @updateURL       https://update.greasyfork.org/scripts/563697/Remove%20Douyu%20Danmaku%20SFX%20-%20%E5%B1%8F%E8%94%BD%E6%96%97%E9%B1%BC%E9%AB%98%E7%BA%A7%E5%BC%B9%E5%B9%95%E7%89%B9%E6%95%88.meta.js
 // ==/UserScript==
 
 (function() {
