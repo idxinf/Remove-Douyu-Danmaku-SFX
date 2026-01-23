@@ -4,7 +4,7 @@
   "description": "屏蔽斗鱼高级弹幕特效",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "node build"
   },
   "repository": {
     "type": "git",
