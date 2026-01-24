@@ -20,7 +20,7 @@ html body [class^=super-text-] {
 }
 
 .highEnergySuperBarrageText {
-    color: #00ffd8 !important;
+    color: #ffff00 !important;
     font-size: 24px !important;
 }
 
