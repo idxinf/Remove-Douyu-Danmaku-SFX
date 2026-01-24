@@ -7,6 +7,8 @@ html body [class^=right-dynamic-pic-],
 html body [class^=rightDynamicPicImg-],
 html body [class^=headpic-],
 html body [class^=vipIcon-],
+html body [class^=head-icon-],
+html body [class^=tail-],
 html body [class^=text-] > img,
 html body [class^=super-text-] > img {
     display: none !important;
@@ -15,6 +17,11 @@ html body [class^=super-text-] > img {
 html body [class^=text-],
 html body [class^=super-text-] {
     background-image: none !important;
+}
+
+.highEnergySuperBarrageText {
+    color: #00ffd8 !important;
+    font-size: 24px !important;
 }
 
 .barrage-gradient {
