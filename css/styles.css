@@ -14,9 +14,8 @@ html body [class^=super-text-] > img {
     display: none !important;
 }
 
-html body [class^=text-],
-html body [class^=super-text-] {
-    background-image: none !important;
+html body [class^=danmuItem-] div {
+    background: none !important;
 }
 
 .highEnergySuperBarrageText {
