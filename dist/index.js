@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name            Remove Douyu Danmaku SFX - 屏蔽斗鱼高级弹幕特效
 // @namespace       https://github.com/idxinf/Remove-Douyu-Danmaku-SFX
-// @version         1.0.2
+// @version         1.0.3
 // @description     屏蔽斗鱼高级弹幕特效
 // @author          idxinf
 // @license         MIT
@@ -41,7 +41,7 @@ html body [class^=super-text-] > img {
 }
 
 html body [class^=danmuItem-] div {
-    background: none !important;
+    background-image: none !important;
 }
 
 .highEnergySuperBarrageText {
@@ -51,6 +51,5 @@ html body [class^=danmuItem-] div {
 
 .barrage-gradient {
     border: none;
-}
-`);
+}`);
 })();
